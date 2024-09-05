@@ -1,0 +1,9 @@
+.chatroom {
+  height: 100%;
+}
+.sender-message {
+  background-color: greenyellow;
+}
+.recipient-message {
+  background-color: blueviolet;
+}

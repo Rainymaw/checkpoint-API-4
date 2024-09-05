@@ -1,0 +1,6 @@
+.chatrooms {
+  height: 100vh;
+}
+.chatrooms-main {
+  display: flex;
+}
